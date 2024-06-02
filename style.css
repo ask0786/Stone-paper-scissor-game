@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  background-color: #361b4d;
+}
+button {
+  background-color: #06113c;
+}
+.fa-solid {
+  margin: 15px;
+}
+h2 {
+  color: #00ffc6;
+}
+.container {
+  margin: 200px;
+}
